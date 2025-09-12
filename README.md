@@ -36,6 +36,16 @@
     - Email: **webmaster@renaissance.nl**
     - Wachtwoord: **password123**
 
+## Filament Admin Panel
+Deze applicatie maakt gebruik van [Filament](https://filamentphp.com/), een krachtig admin panel voor 
+Laravel. 
+
+Documentatie is te vinden op de [Filament website](https://filamentphp.com/docs).
+
+En hier is een goede instructievideo over het gebruik van Filament met Laravel:
+
+https://www.youtube.com/watch?v=GXsMX9gI-uI&ab_channel=LaravelDaily
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
