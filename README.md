@@ -34,7 +34,7 @@
 8. Open je browser en ga naar `http://localhost:8000` om de applicatie te bekijken.
 9. Log in met de volgende testgegevens:
     - Email: **webmaster@renaissance.nl**
-    - Wachtwoord: **password123**
+    - Wachtwoord: **password**
 
 ## Filament Admin Panel
 Deze applicatie maakt gebruik van [Filament](https://filamentphp.com/), een krachtig admin panel voor 
